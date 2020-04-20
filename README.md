@@ -39,7 +39,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 ## [Some cool repositories](#Machine-Learning-Resources)
 
 
-## [Usage & Contribution](#Machine-Learning-Resources)
+## [Usage and Contribution](#Machine-Learning-Resources)
 
 
 ## [Code of Conduct](#Machine-Learning-Resources)
