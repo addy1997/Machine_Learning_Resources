@@ -70,8 +70,11 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * Sympy - A Python library for symbolic mathematics.[[github](https://github.com/sympy/sympy)![Sympy](https://img.shields.io/github/stars/sympy/sympy.svg?style=flat&label=Star&maxAge=86400)]
 
 
-
 ## [Physics](##Machine-Learning-Resources)
+
+* pymunk - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python.[[github](https://github.com/viblo/pymunk/)![pymunk](https://img.shields.io/github/stars/viblo/pymunk.svg?style=flat&label=Star&maxAge=86400)]
+
+* physics - is a simple Educational library written in Python.[[github](https://github.com/pyTeens/physics)![physics](https://img.shields.io/github/stars/pyTenns/physics.svg?style=flat&label=Star&maxAge=86400)]
 
 
 ## [Some cool repositories](#Machine-Learning-Resources)
