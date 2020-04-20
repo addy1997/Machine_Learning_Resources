@@ -40,6 +40,8 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * pandas - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions.[[github](https://github.com/pandas-dev/pandas)![pandas](https://img.shields.io/github/stars/pandas-dev/pandas.svg?style=flat&label=Star&maxAge=86400)]
 
+* Sympy - A Python library for symbolic mathematics.[[github](https://github.com/sympy/sympy)![Sympy](https://img.shields.io/github/stars/sympy/sympy.svg?style=flat&label=Star&maxAge=86400)]
+
 * 
 
 ## [Physics](##Machine-Learning-Resources)
