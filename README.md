@@ -30,7 +30,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * Plotly - The interactive graphing library for Python.[[github](https://github.com/plotly/plotly.py)![Plotly](https://img.shields.io/github/stars/plotly/plotly.py.svg?style=flat&label=Star&maxAge=86400)]
 
-* Paints-Chainer - Paints Chainer is a Python-based comic coloring tool.[[github](https://github.com/pfnet/PaintsChainer)![Paints-Chainer](https://img.shields.io/github/stars/pfnet/PaintsChainer.svg?style=flat&label=Star&maxAge=86400)]
+* Paints Chainer - Paints Chainer is a Python-based comic coloring tool.[[github](https://github.com/pfnet/PaintsChainer)![Paints Chainer](https://img.shields.io/github/stars/pfnet/PaintsChainer.svg?style=flat&label=Star&maxAge=86400)]
 
 
 ## [Graphs](#Machine-Learning-Resources)
