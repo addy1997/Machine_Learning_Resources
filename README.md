@@ -26,6 +26,10 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 ## [Visualization](#Machine-Learning-Resources)
 
+* Matplotlib - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.[[github](https://github.com/matplotlib/matplotlib)![Matplotlib](https://img.shields.io/github/stars/matplotlib/matplotlib.svg?style=flat&label=Star&maxAge=86400)]
+
+* Plotly - The interactive graphing library for Python.[[github](https://github.com/plotly/plotly.py)![Plotly](https://img.shields.io/github/stars/plotly/plotly.py.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ## [Graphs](#Machine-Learning-Resources)
 
