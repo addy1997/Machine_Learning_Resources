@@ -40,9 +40,18 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * PLPlot - PLPlot is a cross-platform software package for creating scientific charts. It is based on the C language library and supports various languages ​​(C, C++, Fortran, Java, Python, Perl etc.).[[github](https://github.com/PLplot/PLplot)![PLPlot](https://img.shields.io/github/stars/PLPlot/PLPlot.svg?style=flat&label=Star&maxAge=86400)]
 
+* pyechart - Pyecharts is a class library for generating Echarts charts.[[github](https://github.com/pyecharts/pyecharts)![pyechart](https://img.shields.io/github/stars/pyecharts/pyecharts.svg?style=flat&label=Star&maxAge=86400)]
 
+* bokeh - Bokeh (Bokeh.js) is a Python interactive visualization library, which supports modern web browsers and provides great presentation capabilities.[[github](https://github.com/bokeh/bokeh)![bokeh](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=flat&label=Star&maxAge=86400)]
 
+* pygal - Pygal is a Python library for generating dynamic SVG charts. The various graphics generated with pygal have a variety of default color styles, which are very beautiful.[[github](https://github.com/Kozea/pygal/)![pygal](https://img.shields.io/github/stars/Kozea/pygal.svg?style=flat&label=Star&maxAge=86400)]
 
+* ImageAI - ImageAI is a Python image recognition library, which provides a number of well-trained models and makes it easy to identify and label various objects in a picture.
+[[github](https://github.com/OlafenwaMoses/ImageAI)![ImageAI](https://img.shields.io/github/stars/OlafenwaMoses/ImageAI.svg?style=flat&label=Star&maxAge=86400)]
+
+* Tesseract OCR - Tesseract 4 adds a new neural net (LSTM) based OCR engine which is focused on line recognition, but also still supports the legacy Tesseract OCR engine of Tesseract 3 which works by recognizing character patterns.[[github](https://github.com/tesseract-ocr/tesseract)![Tesseract OCR](https://img.shields.io/github/stars/tesseract-ocr/tesseract.svg?style=flat&label=Star&maxAge=86400)]
+
+* pillow - PIL is the Python Imaging Library by Fredrik Lundh and Contributors. As of 2019, Pillow development is supported by Tidelift.[[github](https://github.com/python-pillow/Pillow)![pillow](https://img.shields.io/github/stars/python-pillow/Pillow.svg?style=flat&label=Star&maxAge=86400)]
 
 
 ## [Graphs](#Machine-Learning-Resources)
