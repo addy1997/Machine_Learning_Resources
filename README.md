@@ -8,3 +8,19 @@ A repository with curated list of ML libraries, packages, framework, etc.
 [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Machine-Learning-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Machine-Learning-Resources/graphs/commit-activity)
 
 [![Stars](https://img.shields.io/github/stars/addy1997/Machine-Learning-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)
+
+#### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
+
+#### Table of Contents
+* [libraries](#libraries)
+* [Visualization](#Visualization)
+* [Graphs](#Graphs)
+* [Maths](#Maths)
+* [Physics](#Physics)
+* [Some cool repositories](#some-cool-repositories)
+* [Usage & Contribution](#usage-and-contribution)
+* [Code Of Conduct](#code-of-conduct)
+
+## [Libraries](#Machine-Learning-Resources)
+
+
