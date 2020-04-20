@@ -24,6 +24,8 @@ A repository with curated list of ML libraries, packages, framework, etc.
 ## [Libraries](#Machine-Learning-Resources)
 
 
+
+
 ## [Visualization](#Machine-Learning-Resources)
 
 * Matplotlib - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.[[github](https://github.com/matplotlib/matplotlib)![Matplotlib](https://img.shields.io/github/stars/matplotlib/matplotlib.svg?style=flat&label=Star&maxAge=86400)]
@@ -31,6 +33,10 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * Plotly - The interactive graphing library for Python.[[github](https://github.com/plotly/plotly.py)![Plotly](https://img.shields.io/github/stars/plotly/plotly.py.svg?style=flat&label=Star&maxAge=86400)]
 
 * Paints Chainer - Paints Chainer is a Python-based comic coloring tool.[[github](https://github.com/pfnet/PaintsChainer)![Paints Chainer](https://img.shields.io/github/stars/pfnet/PaintsChainer.svg?style=flat&label=Star&maxAge=86400)]
+
+* Face Recognition - Built using dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark. [[github](https://github.com/ageitgey/face_recognition)![Face Recognition](https://img.shields.io/github/stars/ageitgey/face_recognition.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 
 ## [Graphs](#Machine-Learning-Resources)
@@ -48,7 +54,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * Sympy - A Python library for symbolic mathematics.[[github](https://github.com/sympy/sympy)![Sympy](https://img.shields.io/github/stars/sympy/sympy.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+
 
 ## [Physics](##Machine-Learning-Resources)
 
