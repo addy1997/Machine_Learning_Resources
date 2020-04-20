@@ -36,6 +36,12 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * Face Recognition - Built using dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark. [[github](https://github.com/ageitgey/face_recognition)![Face Recognition](https://img.shields.io/github/stars/ageitgey/face_recognition.svg?style=flat&label=Star&maxAge=86400)]
 
+* Deep Painterly Harmonization - Deep Painterly Harmonization is an image synthesis library based on Python and LUA.[[github](https://github.com/luanfujun/deep-painterly-harmonization)![Deep Painterly Harmonization](https://img.shields.io/github/stars/luanfujun/deep-painterly-harmonization.svg?style=flat&label=Star&maxAge=86400)]
+
+* PLPlot - PLPlot is a cross-platform software package for creating scientific charts. It is based on the C language library and supports various languages ​​(C, C++, Fortran, Java, Python, Perl etc.).[[github](https://github.com/PLplot/PLplot)![PLPlot](https://img.shields.io/github/stars/PLPlot/PLPlot.svg?style=flat&label=Star&maxAge=86400)]
+
+
+
 
 
 
