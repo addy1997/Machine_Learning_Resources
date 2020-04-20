@@ -32,6 +32,11 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 ## [Maths](#Machine-Learning-Resources)
 
+* Numpy - The fundamental package for scientific computing with Python. It has tools for matrix manipulations and performing opeartions with array. [[github](https://github.com/numpy/numpy)![Numpy](https://img.shields.io/github/stars/numpy/numpy.svg?style=flat&label=Star&maxAge=86400)]
+
+* Scipy - open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.[[github](https://github.com/scipy/scipy)![Scipy](https://img.shields.io/github/stars/scipy/scipy.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
 
 ## [Physics](##Machine-Learning-Resources)
 
