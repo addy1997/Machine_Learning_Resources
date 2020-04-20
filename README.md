@@ -36,6 +36,10 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * Scipy - open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.[[github](https://github.com/scipy/scipy)![Scipy](https://img.shields.io/github/stars/scipy/scipy.svg?style=flat&label=Star&maxAge=86400)]
 
+* scikit-learn - scikit-learn is a Python module for machine learning built on top of SciPy. [[github](https://github.com/scikit-learn/scikit-learn)![scikit-learn](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg?style=flat&label=Star&maxAge=86400)]
+
+* pandas - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions.[[github](https://github.com/pandas-dev/pandas)![pandas](https://img.shields.io/github/stars/pandas-dev/pandas.svg?style=flat&label=Star&maxAge=86400)]
+
 * 
 
 ## [Physics](##Machine-Learning-Resources)
