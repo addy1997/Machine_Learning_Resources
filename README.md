@@ -9,7 +9,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 [![Stars](https://img.shields.io/github/stars/addy1997/Machine-Learning-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)
 
-#### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
+#### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue or write a mail to [adwaitnaik2@gmail.com].
 
 #### Table of Contents
 * [libraries](#libraries)
@@ -22,5 +22,27 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * [Code Of Conduct](#code-of-conduct)
 
 ## [Libraries](#Machine-Learning-Resources)
+
+
+## [Visualization](#Machine-Learning-Resources)
+
+
+## [Graphs](#Machine-Learning-Resources)
+
+
+## [Maths](#Machine-Learning-Resources)
+
+
+## [Physics](##Machine-Learning-Resources)
+
+
+## [Some cool repositories](#Machine-Learning-Resources)
+
+
+## [Usage & Contribution](#Machine-Learning-Resources)
+
+
+## [Code of Conduct](#Machine-Learning-Resources)
+
 
 
