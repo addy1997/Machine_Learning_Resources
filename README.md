@@ -13,15 +13,27 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 #### Table of Contents
 * [libraries](#libraries)
-* [Visualization](#Visualization)
-* [Graphs](#Graphs)
-* [Maths](#Maths)
-* [Physics](#Physics)
+  * [Visualization](#Visualization)
+  * [Graphs](#Graphs)
+  * [Maths](#Maths)
+  * [Physics](#Physics)
+  
 * [Some cool repositories](#some-cool-repositories)
 * [Usage & Contribution](#usage-and-contribution)
 * [Code Of Conduct](#code-of-conduct)
 
 ## [Libraries](#Machine-Learning-Resources)
+
+* lasagne - Lightweight library to build and train neural networks in Theano. [[github](https://github.com/Lasagne/Lasagne)![lasagne](https://img.shields.io/github/stars/Lasagne/Lasagne.svg?style=flat&label=Star&maxAge=86400)]
+
+* Blocks - a framework that helps you build neural network models on top of Theano.[[github](https://github.com/mila-iqia/blocks)![Blocks](https://img.shields.io/github/stars/mila-iqia/blocks.svg?style=flat&label=Star&maxAge=86400)]
+
+* NeuPy - a Tensorflow based python library for prototyping and building neural networks.[[github](https://github.com/itdxer/neupy)![NeuPy](https://img.shields.io/github/stars/itdxer/neupy.svg?style=flat&label=Star&maxAge=86400)]
+
+* FANN - Fast Artificial Neural Network (FANN) Library is a free open source neural network library, which implements multilayer artificial neural networks in C with support for both fully connected and sparsely connected networks. [[github](https://github.com/libfann/fann)![FANN](https://img.shields.io/github/stars/libfann/fann.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
+
 
 
 
@@ -68,6 +80,10 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * pandas - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions.[[github](https://github.com/pandas-dev/pandas)![pandas](https://img.shields.io/github/stars/pandas-dev/pandas.svg?style=flat&label=Star&maxAge=86400)]
 
 * Sympy - A Python library for symbolic mathematics.[[github](https://github.com/sympy/sympy)![Sympy](https://img.shields.io/github/stars/sympy/sympy.svg?style=flat&label=Star&maxAge=86400)]
+
+* Theano - a library written in python that allows you to define, optimize and compute opeartions on multi-dimentional arrays, etc. [[github](https://github.com/Theano/Theano)![Theano](https://img.shields.io/github/stars/Theano/Theano.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
 
 
 ## [Physics](##Machine-Learning-Resources)
