@@ -48,7 +48,11 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * PyGobject - With PyGObject, you can write Python applications for the GNOME project. You can write a Python application using GTK+ as well. [[github](https://github.com/GNOME/pygobject)![PyGobject](https://img.shields.io/github/stars/GNOME/pygobject.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+* PyQT5 - PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. [[github](https://github.com/pyqt/python-qt5)![PyQT5](https://img.shields.io/github/stars/pyqt/python-qt5.svg?style=flat&label=Star&maxAge=86400)]
+
+* pyslide - Python whole slide image analysis toolkit. [[github](https://github.com/PingjunChen/pyslide)![pyslide](https://img.shields.io/github/stars/PingjunChen/pyslide.svg?style=flat&label=Star&maxAge=86400)]
+
+*
 
 
 
