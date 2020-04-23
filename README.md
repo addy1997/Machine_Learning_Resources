@@ -50,7 +50,7 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * PyQT5 - PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. [[github](https://github.com/pyqt/python-qt5)![PyQT5](https://img.shields.io/github/stars/pyqt/python-qt5.svg?style=flat&label=Star&maxAge=86400)]
 
-* pyslide - Python whole slide image analysis toolkit. [[github](https://github.com/PingjunChen/pyslide)![pyslide](https://img.shields.io/github/stars/PingjunChen/pyslide.svg?style=flat&label=Star&maxAge=86400)]
+* pyside - Python whole slide image analysis toolkit. [[github](https://github.com/PingjunChen/pyslide)![pyslide](https://img.shields.io/github/stars/PingjunChen/pyslide.svg?style=flat&label=Star&maxAge=86400)]
 
 *
 
