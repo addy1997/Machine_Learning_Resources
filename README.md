@@ -35,11 +35,20 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 ## [GUI](#Machine-Learning-Resources)
 
-* LayoutX - Python Tk declarative UI framework with reactive data binding. [[github](https://github.com/Bomberus/LayoutX)![Layout](https://img.shields.io/github/stars/Bomberus/LayoutX.svg?style=flat&label=Star&maxAge=86400)]
+* LayoutX - Python Tk declarative UI framework with reactive data binding. [[github](https://github.com/Bomberus/LayoutX)![LayoutX](https://img.shields.io/github/stars/Bomberus/LayoutX.svg?style=flat&label=Star&maxAge=86400)]
 
 * Flexx - Using Web technology, if it has Python and browser anywhere works.[[github](https://github.com/flexxui/flexx)![Flexx](https://img.shields.io/github/stars/flexxui/flexx.svg?style=flat&label=Star&maxAge=86400)]
 
+* CEF - This framework targets Windows, MAC OS, and Linux. It is based on Google Chromium. Its focus is largely on the facilitation of embedded browser use in third-party applications. [[github](https://github.com/cztomczak/cefpython)![CEF](https://img.shields.io/github/stars/cztomczak/cefpython.svg?style=flat&label=Star&maxAge=86400)]
+
+* DABO - The target of this framework is WxPython. This is a 3-tier framework. Dabo is a cross-platform application development framework. [[github](https://github.com/dabodev/dabo)![DABO](https://img.shields.io/github/stars/dabodev/dabo.svg?style=flat&label=Star&maxAge=86400)]
+
+* pygforms - Pyforms is a Python 2.7/3.x cross-environment framework used to develop GUI application.
+Code reusability is encouraged in this framework.[[github](https://github.com/UmSenhorQualquer/pyforms)![pyforms](https://img.shields.io/github/stars/UmSenhorQualquer/pyforms.svg?style=flat&label=Star&maxAge=86400)]
+
 * 
+
+
 
 
 
