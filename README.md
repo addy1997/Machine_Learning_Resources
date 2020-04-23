@@ -14,6 +14,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 #### Table of Contents
 * [libraries](#libraries)
   * [Visualization](#Visualization)
+  * [GUI](#GUI)
   * [Graphs](#Graphs)
   * [Maths](#Maths)
   * [Physics](#Physics)
@@ -32,8 +33,13 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * FANN - Fast Artificial Neural Network (FANN) Library is a free open source neural network library, which implements multilayer artificial neural networks in C with support for both fully connected and sparsely connected networks. [[github](https://github.com/libfann/fann)![FANN](https://img.shields.io/github/stars/libfann/fann.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+## [GUI](#Machine-Learning-Resources)
 
+* LayoutX - Python Tk declarative UI framework with reactive data binding. [[github](https://github.com/Bomberus/LayoutX)![Layout](https://img.shields.io/github/stars/Bomberus/LayoutX.svg?style=flat&label=Star&maxAge=86400)]
+
+* Flexx - Using Web technology, if it has Python and browser anywhere works.[[github](https://github.com/flexxui/flexx)![Flexx](https://img.shields.io/github/stars/flexxui/flexx.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
 
 
 
