@@ -46,6 +46,8 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * pygforms - Pyforms is a Python 2.7/3.x cross-environment framework used to develop GUI application.
 Code reusability is encouraged in this framework.[[github](https://github.com/UmSenhorQualquer/pyforms)![pyforms](https://img.shields.io/github/stars/UmSenhorQualquer/pyforms.svg?style=flat&label=Star&maxAge=86400)]
 
+* PyGobject - With PyGObject, you can write Python applications for the GNOME project. You can write a Python application using GTK+ as well. [[github](https://github.com/GNOME/pygobject)![PyGobject](https://img.shields.io/github/stars/GNOME/pygobject.svg?style=flat&label=Star&maxAge=86400)]
+
 * 
 
 
