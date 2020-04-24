@@ -32,7 +32,14 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * Tensorflow - Is a machine learning based framework by Google for object recognition, image segmentation, etc. TensorFlow is an open source software library for numerical computation using data flow graphs. [[github](https://github.com/tensorflow/tensorflow)![Tensorflow](https://img.shields.io/github/stars/tensorflow/tensorflow.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+* Pytorch - PyTorch is a Python package that provides two high-level features, tensor computation (like NumPy) with strong GPU acceleration, deep neural networks built on a tape-based autograd system.[[github](https://github.com/pytorch/pytorch)![Pytorch](https://img.shields.io/github/stars/pytorch/pytorch.svg?style=flat&label=Star&maxAge=86400)]
+
+* Neurolab - NeuroLab is a simple and powerful Neural Network Library for Python. This library contains based neural networks, train algorithms and flexible framework to create and explore other networks.[[github](https://github.com/omtinez/neurolab)![Neurolab](https://img.shields.io/github/stars/omtinez/neurolab.svg?style=flat&label=Star&maxAge=86400)]
+
+* ffnet - feedforward neural network for Python is fast and easy to use feed-forward neural network training solution for Python. You can use it to train, test, save, load and use an artificial neural network with sigmoid activation functions.[[github](https://github.com/shuyueL/FFNet)![ffnet](https://img.shields.io/github/stars/shuyuel/FFNET.svg?style=flat&label=Star&maxAge=86400)]
+
+* pyrenn - pyrenn is a recurrent neural network toolbox for Python and Matlab.[[github](https://github.com/yabata/pyrenn)![pyrenn](https://img.shields.io/github/stars/yabata/pyrenn.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ## [GUI](#Machine-Learning-Resources)
 
