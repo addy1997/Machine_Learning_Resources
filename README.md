@@ -40,6 +40,8 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * pyrenn - pyrenn is a recurrent neural network toolbox for Python and Matlab.[[github](https://github.com/yabata/pyrenn)![pyrenn](https://img.shields.io/github/stars/yabata/pyrenn.svg?style=flat&label=Star&maxAge=86400)]
 
+* scikit-nn - This library implements multi-layer perceptrons, auto-encoders and (soon) recurrent neural networks with a stable Future Proof™ interface that's compatible with scikit-learn for a more user-friendly and Pythonic interface.[[github](https://github.com/aigamedev/scikit-neuralnetwork)![scikit-nn](https://img.shields.io/github/stars/aigamedev/scikit-neuralnetwork.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ## [GUI](#Machine-Learning-Resources)
 
