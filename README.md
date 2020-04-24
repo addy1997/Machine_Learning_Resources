@@ -3,11 +3,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/Machine_Learning_Resources)
-
-[![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Machine-Learning-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Machine-Learning-Resources/graphs/commit-activity)
-
-[![Stars](https://img.shields.io/github/stars/addy1997/Machine-Learning-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)
+[![Build Status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/Machine_Learning_Resources)]
 
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue or write a mail to [adwaitnaik2@gmail.com].
 
@@ -33,6 +29,10 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * NeuPy - a Tensorflow based python library for prototyping and building neural networks.[[github](https://github.com/itdxer/neupy)![NeuPy](https://img.shields.io/github/stars/itdxer/neupy.svg?style=flat&label=Star&maxAge=86400)]
 
 * FANN - Fast Artificial Neural Network (FANN) Library is a free open source neural network library, which implements multilayer artificial neural networks in C with support for both fully connected and sparsely connected networks. [[github](https://github.com/libfann/fann)![FANN](https://img.shields.io/github/stars/libfann/fann.svg?style=flat&label=Star&maxAge=86400)]
+
+* Tensorflow - Is a machine learning based framework by Google for object recognition, image segmentation, etc. TensorFlow is an open source software library for numerical computation using data flow graphs. [[github](https://github.com/tensorflow/tensorflow)![Tensorflow](https://img.shields.io/github/stars/tensorflow/tensorflow.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
 
 ## [GUI](#Machine-Learning-Resources)
 
