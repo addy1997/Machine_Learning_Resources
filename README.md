@@ -97,6 +97,10 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 ## [Graphs](#Machine-Learning-Resources)
 
+* Graph Tool - is a python based efficient module for statistical analysis and manipulation of graphs. [[github](https://github.com/antmd/graph-tool)![Graph Tool](https://img.shields.io/github/stars/antmd/graph-tool.svg?style=flat&label=Star&maxAge=86400)]
+
+* Network X - is a python based library for creation, manipulation, structuring, and analysis of graphs in python. [[github](https://github.com/networkx/networkx)![Network X](https://img.shields.io/github/stars/networkx/networkx.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ## [Maths](#Machine-Learning-Resources)
 
