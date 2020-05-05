@@ -122,6 +122,8 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * Theano - a library written in python that allows you to define, optimize and compute opeartions on multi-dimentional arrays, etc. [[github](https://github.com/Theano/Theano)![Theano](https://img.shields.io/github/stars/Theano/Theano.svg?style=flat&label=Star&maxAge=86400)]
 
+* Pylearn2 - a machine learning library based on theano.[[github](https://github.com/lisa-lab/pylearn2)![Pylearn2](https://img.shields.io/github/stars/lisa-lab/pylearn2.svg?style=flat&label=Star&maxAge=86400)]
+
 ## [Physics](##Machine-Learning-Resources)
 
 * pymunk - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python.[[github](https://github.com/viblo/pymunk/)![pymunk](https://img.shields.io/github/stars/viblo/pymunk.svg?style=flat&label=Star&maxAge=86400)]
