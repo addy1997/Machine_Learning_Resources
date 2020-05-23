@@ -41,6 +41,8 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * scikit-nn - This library implements multi-layer perceptrons, auto-encoders and (soon) recurrent neural networks with a stable Future Proof™ interface that's compatible with scikit-learn for a more user-friendly and Pythonic interface.[[github](https://github.com/aigamedev/scikit-neuralnetwork)![scikit-nn](https://img.shields.io/github/stars/aigamedev/scikit-neuralnetwork.svg?style=flat&label=Star&maxAge=86400)]
 
+* PySyft - PySyft is a Python library for secure and private Deep Learning.[[github](https://github.com/OpenMined/PySyft)![PySyft](https://img.shields.io/github/stars/OpenMined/PySyft.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ## [GUI](#Machine-Learning-Resources)
 
