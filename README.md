@@ -43,6 +43,13 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * PySyft - PySyft is a Python library for secure and private Deep Learning.[[github](https://github.com/OpenMined/PySyft)![PySyft](https://img.shields.io/github/stars/OpenMined/PySyft.svg?style=flat&label=Star&maxAge=86400)]
 
+* PyGrid - PyGrid is a peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft.[[github](https://github.com/OpenMined/PyGrid/)![PyGrid](https://img.shields.io/github/stars/OpenMined/PyGrid.svg?style=flat&label=Star&maxAge=86400)]
+
+* PyFE - A library for running functional encryption on tensors. [[github](https://github.com/OpenMined/PyFE)![PyFE](https://img.shields.io/github/stars/OpenMined/PyFE.svg?style=flat&label=Star&maxAge=86400)]
+
+* TenSEAL - A library for homomorphic encryption of tensors. [[github](https://github.com/OpenMined/TenSEAL)![TenSEAL](https://img.shields.io/github/stars/OpenMined/TenSEAL.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 ## [GUI](#Machine-Learning-Resources)
 
