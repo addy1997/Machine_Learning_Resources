@@ -113,6 +113,9 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * mlboard - mlboard is a tool that allows you to log mlpack data in the format that the TensorBoard frontend can render in browsers. [[github](https://github.com/mlpack/mlboard)![mlboard](https://img.shields.io/github/stars/mlpack/mlboard.svg?style=flat&label=Star&maxAge=86400)]
 
+* Pycortex - is a software that allows you to visualize fMRI or other volumetric mapping data on cortical surfaces. [[github](https://github.com/gallantlab/pycortex)![Pycortex](https://img.shields.io/github/stars/gallantlab/PYCORTEX.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 ## [Graphs](#Machine-Learning-Resources)
 
