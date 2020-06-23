@@ -49,6 +49,9 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * TenSEAL - A library for homomorphic encryption of tensors. [[github](https://github.com/OpenMined/TenSEAL)![TenSEAL](https://img.shields.io/github/stars/OpenMined/TenSEAL.svg?style=flat&label=Star&maxAge=86400)]
 
+* mlpack - A scalable, fast, and flexible library for machine learning written in C++. [[github](https://github.com/mlpack/mlpack) ![mlpack](https://img.shields.io/github/stars/mlpack/mlpack.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 
 ## [GUI](#Machine-Learning-Resources)
@@ -108,6 +111,8 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * Seaborn - Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures. [[github](https://github.com/mwaskom/seaborn)![Seaborn](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=flat&label=Star&maxAge=86400)]
 
+* mlboard - mlboard is a tool that allows you to log mlpack data in the format that the TensorBoard frontend can render in browsers. [[github](https://github.com/mlpack/mlboard)![mlboard](https://img.shields.io/github/stars/mlpack/mlboard.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ## [Graphs](#Machine-Learning-Resources)
 
@@ -131,6 +136,10 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 * Theano - a library written in python that allows you to define, optimize and compute opeartions on multi-dimentional arrays, etc. [[github](https://github.com/Theano/Theano)![Theano](https://img.shields.io/github/stars/Theano/Theano.svg?style=flat&label=Star&maxAge=86400)]
 
 * Pylearn2 - a machine learning library based on theano.[[github](https://github.com/lisa-lab/pylearn2)![Pylearn2](https://img.shields.io/github/stars/lisa-lab/pylearn2.svg?style=flat&label=Star&maxAge=86400)]
+
+* ensmallen - ensmallen is a C++ header-only library for numerical optimization. [[github](https://github.com/mlpack/ensmallen)![ensmallen](https://img.shields.io/github/stars/mlpack/ensmallen.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
 
 ## [Physics](##Machine-Learning-Resources)
 
