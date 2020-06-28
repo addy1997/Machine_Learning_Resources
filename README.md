@@ -1,4 +1,6 @@
-# Machine_Learning_Resources
+![logo](https://github.com/addy1997/Machine_Learning_Resources/blob/master/Screenshot%202020-06-28%20at%201.12.21%20PM.png)
+
+---------------------------------------------------------------------------------------------------------------------------
 A repository with curated list of ML libraries, packages, framework, etc. 
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)  [![Build Status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/Machine_Learning_Resources) [![Stars](https://img.shields.io/github/stars/addy1997/Machine_Learning_Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)  [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Machine_Learning_Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Machine_Learning_Resources/graphs/commit-activity)
