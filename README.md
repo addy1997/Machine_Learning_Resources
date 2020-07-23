@@ -5,6 +5,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)  [![Build Status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/Machine_Learning_Resources) [![Stars](https://img.shields.io/github/stars/addy1997/Machine_Learning_Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)  [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Machine_Learning_Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Machine_Learning_Resources/graphs/commit-activity)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue or write a mail to [adwaitnaik2@gmail.com].
 
@@ -20,6 +21,8 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * [Some cool repositories](#some-cool-repositories)
 * [Usage & Contribution](#usage-and-contribution)
 * [Code Of Conduct](#code-of-conduct)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Libraries](#Machine-Learning-Resources)
 
@@ -54,7 +57,7 @@ A repository with curated list of ML libraries, packages, framework, etc.
 * mlpack - A scalable, fast, and flexible library for machine learning written in C++. [[github](https://github.com/mlpack/mlpack) ![mlpack](https://img.shields.io/github/stars/mlpack/mlpack.svg?style=flat&label=Star&maxAge=86400)]
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [GUI](#Machine-Learning-Resources)
 
@@ -79,6 +82,7 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * wxpython - This is the source tree for wxPython, a set of wrapper modules that enable the use of wxWidgets from the Python language. This respository is archived. [[github](https://github.com/wxWidgets/wxPython-Classic)]
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Visualization](#Machine-Learning-Resources)
 
@@ -117,13 +121,15 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * Pycortex - is a software that allows you to visualize fMRI or other volumetric mapping data on cortical surfaces. [[github](https://github.com/gallantlab/pycortex)![Pycortex](https://img.shields.io/github/stars/gallantlab/PYCORTEX.svg?style=flat&label=Star&maxAge=86400)]
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Graphs](#Machine-Learning-Resources)
 
 * Graph Tool - is a python based efficient module for statistical analysis and manipulation of graphs. [[github](https://github.com/antmd/graph-tool)![Graph Tool](https://img.shields.io/github/stars/antmd/graph-tool.svg?style=flat&label=Star&maxAge=86400)]
 
 * Network X - is a python based library for creation, manipulation, structuring, and analysis of graphs in python. [[github](https://github.com/networkx/networkx)![Network X](https://img.shields.io/github/stars/networkx/networkx.svg?style=flat&label=Star&maxAge=86400)]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## [Maths](#Machine-Learning-Resources)
@@ -144,20 +150,10 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * ensmallen - ensmallen is a C++ header-only library for numerical optimization. [[github](https://github.com/mlpack/ensmallen)![ensmallen](https://img.shields.io/github/stars/mlpack/ensmallen.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Physics](##Machine-Learning-Resources)
 
 * pymunk - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python.[[github](https://github.com/viblo/pymunk/)![pymunk](https://img.shields.io/github/stars/viblo/pymunk.svg?style=flat&label=Star&maxAge=86400)]
-
-
-## [Some cool repositories](#Machine-Learning-Resources)
-
-
-## [Usage and Contribution](#Machine-Learning-Resources)
-
-
-## [Code of Conduct](#Machine-Learning-Resources)
-
 
 
