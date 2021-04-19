@@ -125,6 +125,14 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * Superset - A modern, enterprise-ready business intelligence web application. An intuitive interface for visualizing datasets and crafting interactive dashboards [[github](https://github.com/apache/superset) ![Superset](https://img.shields.io/github/stars/apache/superset.svg?style=flat&label=Star&maxAge=86400))]
 
+* missingno - provides a small toolset of flexible and easy-to-use missing data visualizations and utilities. [[github](https://github.com/ResidentMario/missingno) ![missingno](https://img.shields.io/github/stars/ResidentMario/missingno.svg?style=flat&label=Star&maxAge=86400)]
+
+* gmplot - a library to plot data on google maps. [[github](https://github.com/gmplot/gmplot) ![gmplot](https://img.shields.io/github/stars/gmplot/gmplot.svg?style=flat&label=Star&maxAge=86400)]
+
+* glue - linked data visualization across multiple files. [[github](https://github.com/glue-viz/glue) ![glue](https://img.shields.io/github/stars/glue-viz/glue.svg?style=flat&label=Star&maxAge=86400)]
+
+* geoplot - High-level geospatial data visualization library for Python. [[github](https://github.com/ResidentMario/geoplot) ![geoplot](https://img.shields.io/github/stars/ResidentMario/geoplot.svg?style=flat&label=Star&maxAge=86400)]
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Graphs](#Machine-Learning-Resources)
