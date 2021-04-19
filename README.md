@@ -113,7 +113,9 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * Geoplotlib - is an open-source Python toolbox that serves to visualize geographical data. It’s library supports the development of hardware-accelerated interactive visualizations and provides implementations of dot maps, kernel density estimation, spatial graphs, Voronoi tessellation, shapefiles and many other spatial visualizations. [[github](https://github.com/andrea-cuttone/geoplotlib)![Geoplotlib](https://img.shields.io/github/stars/andrea-cuttone/geoplotlib.svg?style=flat&label=Star&maxAge=86400)]
 
-* ggplot2 is a system for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details. [[github](https://github.com/tidyverse/ggplot2)![ggplot2](https://img.shields.io/github/stars/tidyverse/ggplot2.svg?style=flat&label=Star&maxAge=86400)]
+* ggplot2 - a system for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details. [[github](https://github.com/tidyverse/ggplot2)![ggplot2](https://img.shields.io/github/stars/tidyverse/ggplot2.svg?style=flat&label=Star&maxAge=86400)]
+
+* ggpy - a port for ggplot written in python. [[github](https://github.com/yhat/ggpy)![ggpy](https://img.shields.io/github/stars/yhat/ggpy.svg?style=flat&label=Star&maxAge=86400)]
 
 * Seaborn - Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures. [[github](https://github.com/mwaskom/seaborn)![Seaborn](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=flat&label=Star&maxAge=86400)]
 
