@@ -80,7 +80,7 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * PyGUI - A cross-platform GUI library for Python with a pythonic API.[[github](https://github.com/gcewing/PyGUI)![PyGUI](https://img.shields.io/github/stars/gcewing/PyGUI.svg?style=flat&label=Star&maxAge=86400)]
 
-* wxpython - This is the source tree for wxPython, a set of wrapper modules that enable the use of wxWidgets from the Python language. This respository is archived. [[github](https://github.com/wxWidgets/wxPython-Classic)]
+* wxpython - This is the source tree for wxPython, a set of wrapper modules that enable the use of wxWidgets from the Python language. This respository is archived. [[github](https://github.com/wxWidgets/wxPython-Classic)] [new-link](https://github.com/wxWidgets/Phoenix)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
