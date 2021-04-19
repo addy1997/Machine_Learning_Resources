@@ -123,6 +123,8 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * Pycortex - is a software that allows you to visualize fMRI or other volumetric mapping data on cortical surfaces. [[github](https://github.com/gallantlab/pycortex)![Pycortex](https://img.shields.io/github/stars/gallantlab/PYCORTEX.svg?style=flat&label=Star&maxAge=86400)]
 
+* Superset - A modern, enterprise-ready business intelligence web application. An intuitive interface for visualizing datasets and crafting interactive dashboards [[github](https://github.com/apache/superset) ![Superset](https://img.shields.io/github/stars/apache/superset.svg?style=flat&label=Star&maxAge=86400))]
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Graphs](#Machine-Learning-Resources)
