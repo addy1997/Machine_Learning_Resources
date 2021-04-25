@@ -56,6 +56,8 @@ A repository with curated list of ML libraries, packages, framework, etc.
 
 * mlpack - A scalable, fast, and flexible library for machine learning written in C++. [[github](https://github.com/mlpack/mlpack) ![mlpack](https://img.shields.io/github/stars/mlpack/mlpack.svg?style=flat&label=Star&maxAge=86400)]
 
+* Pytest - A framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries. [[github](https://github.com/pytest-dev/pytest) ![Pytest](https://img.shields.io/github/stars/pytest-dev/pytest.svg?style=flat&label=Star&maxAge=86400)]
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
