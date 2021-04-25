@@ -135,6 +135,12 @@ Code reusability is encouraged in this framework.[[github](https://github.com/Um
 
 * geoplot - High-level geospatial data visualization library for Python. [[github](https://github.com/ResidentMario/geoplot) ![geoplot](https://img.shields.io/github/stars/ResidentMario/geoplot.svg?style=flat&label=Star&maxAge=86400)]
 
+* corella - Correlation plots on the terminal, for quick and simple insights. Powered by pandas. [[github](https://github.com/nk412/corella) ![corella](https://img.shields.io/github/stars/nk412/corella.svg?style=flat&label=Star&maxAge=86400)]
+
+* quick-potato - A library for the Python programming language that allows for effortless profiling with high-quality visualizations and empowers you to produce a performance angle to test-driven development. [[github](https://github.com/JoeyHendricks/QuickPotato) ![quick-potato](https://img.shields.io/github/stars/JoeyHendricks/QuickPotato.svg?style=flat&label=Star&maxAge=86400)]
+
+* phylotoast - Tools for phylogenetic data analysis including visualization and cluster-computing support. [[github](https://github.com/smdabdoub/phylotoast)! [phylotoast](https://img.shields.io/github/stars/smdabdoub/phylotoast.svg?style=flat&label=Star&maxAge=86400)]
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Graphs](#Machine-Learning-Resources)
